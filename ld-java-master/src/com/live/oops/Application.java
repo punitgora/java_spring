@@ -1,5 +1,7 @@
 package com.live.oops;
 
+import java.util.HashMap;
+
 public class Application {
 	static public void main(String arguments[]) {
 		//creatingLaptopInstances();
@@ -11,6 +13,14 @@ public class Application {
 		//cloneDemo();
 		//extendsImplementsDemo();
 		finalizeDemo();
+		
+		//anonymous instances
+		//System.out.println(new Laptop("Test",5.5f));
+		
+		HashMap<Laptop,String> hashMap = new HashMap<Laptop,String>();
+		hashMap.put(new Laptop("Test",5.5f),"testlaptop");
+		hashMap.put(new Laptop("Test",5.5f),"testlaptop1");
+		System.out.println(hashMap);
 	}
 
 	private static void finalizeDemo() {
