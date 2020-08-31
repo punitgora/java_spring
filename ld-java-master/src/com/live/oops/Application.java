@@ -8,7 +8,35 @@ public class Application {
 //		getClassDemo();
 		//equalsDemo1();
 		//equalsDemo2();
-		cloneDemo();
+		//cloneDemo();
+		//extendsImplementsDemo();
+		finalizeDemo();
+	}
+
+	private static void finalizeDemo() {
+		Laptop dell = null;
+		//the memory is alloted
+		dell = new Laptop("Dell", 50.60f);
+		try {
+			System.out.println("Finalizing the Laptop before cleaning up the memory");
+			dell.finalize();
+			System.out.println("After clean up!");
+		} catch (Throwable e) {
+		System.out.println("Finalizing " + e);
+		}
+	}
+	
+	private static void extendsImplementsDemo() {
+		//GooglePay gPay = new GooglePay();
+		GooglePay gPay = new CitiBank();
+		gPay.pay();
+		gPay = new HSBCBank();
+		gPay.pay();
+		
+		//Person actor = new Person();
+		Person person = new Actor();
+		person.name = "Will Smith!";
+		person.job();
 	}
 
 	private static void cloneDemo() {
@@ -124,5 +152,6 @@ public class Application {
 		
 		sony.getDetails();
 	}
+
 }
 

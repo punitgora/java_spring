@@ -1,7 +1,13 @@
 //A class is a specification or blueprint for creating objects.
 package com.live.oops;
+//Implement Cloneable object to inform JVM that this object can be cloned.
 class Laptop extends Object implements Cloneable{
-	 
+@Override
+	protected void finalize() throws Throwable {
+		System.out.println("Perform clean up operations!!!!");
+		System.out.println("Close DB connections or network machines");
+		super.finalize();
+	}
 	@Override 
 	protected Object clone() throws CloneNotSupportedException {
 		return super.clone();
