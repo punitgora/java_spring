@@ -21,6 +21,11 @@ public class Application {
 		hashMap.put(new Laptop("Test",5.5f),"testlaptop");
 		hashMap.put(new Laptop("Test",5.5f),"testlaptop1");
 		System.out.println(hashMap);
+		
+		for(int i = 0; i< 10; i++) {
+			Laptop laptop = new Laptop("Mac",5.5f);
+			System.out.println(laptop.hashCode());
+		}
 	}
 
 	private static void finalizeDemo() {
