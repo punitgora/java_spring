@@ -30,6 +30,15 @@ public class MapEx {
 		}
 
 		//code to iterate and display all the keys.
+		Iterator iterator2 = map.keySet().iterator();
+		while (iterator2.hasNext()) {
+		    System.out.println(iterator2.next());
+		}
+		
+		//code to iterate and display the key & value pairs together.
+		for(Object valueObject : map.entrySet()) {
+			System.err.println(valueObject);
+		}
 	}
 	private static void m1() {
 		Map map = new HashMap();
@@ -46,5 +55,6 @@ public class MapEx {
 		System.out.println(map);
 		//System.err.println(map.get("sony"));
 		//System.err.println(map.containsKey("sony"));
+		
 	}
 }
