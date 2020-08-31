@@ -29,6 +29,7 @@ public class MapEx {
 			System.out.println(object);
 		}
 
+		//code to iterate and display all the keys.
 	}
 	private static void m1() {
 		Map map = new HashMap();
