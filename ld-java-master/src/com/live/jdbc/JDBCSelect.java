@@ -70,14 +70,14 @@ Connection connection = null;
 		// CHECKED exceptions : compiler force checks that certain exceptions are
 		// handled
 		// Step 1 : Load the driver
-
+		Connection connection = null;
 		try {
 			//Deprecated
 //			Class.forName("com.mysql.jdbc.Driver");
 			Class.forName("com.mysql.cj.jdbc.Driver");			
 			System.out.println("Successfully loaded the driver!");
 			//Step 2: Create the connection
-			Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/sakila","root","mysql");
+			 DriverManager.getConnection("jdbc:mysql://localhost:3306/sakila","root","mysql");
 			System.out.println("Successfully connected to the database!");
 			//Step 3: Create a statement (sql query)
 			Statement statement = connection.createStatement();
@@ -94,6 +94,13 @@ Connection connection = null;
 			System.out.println("The driver class was not found : " + e);
 		} catch (SQLException e) {
 			System.out.println("The server could not be connected due to n/w or credentials or server errors!" + e);
+		}
+		finally{
+			try {
+				connection.close();
+			} catch (SQLException e) {
+				System.out.println("Error closing the connection " + e);
+			}
 		}
 	}
 }
