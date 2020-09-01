@@ -8,6 +8,11 @@ import java.sql.Statement;
 
 public class JDBCSelect {
 	public static void main(String[] args) {
+		jdbcSelectMySql();
+
+	}
+
+	private static void jdbcSelectMySql() {
 		// CHECKED exceptions : compiler force checks that certain exceptions are
 		// handled
 		// Step 1 : Load the driver
@@ -36,6 +41,5 @@ public class JDBCSelect {
 		} catch (SQLException e) {
 			System.out.println("The server could not be connected due to n/w or credentials or server errors!");
 		}
-
 	}
 }
