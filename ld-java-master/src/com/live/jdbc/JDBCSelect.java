@@ -77,7 +77,7 @@ Connection connection = null;
 			Class.forName("com.mysql.cj.jdbc.Driver");			
 			System.out.println("Successfully loaded the driver!");
 			//Step 2: Create the connection
-			 DriverManager.getConnection("jdbc:mysql://localhost:3306/sakila","root","mysql");
+			connection =  DriverManager.getConnection("jdbc:mysql://localhost:3306/sakila","root","mysql");
 			System.out.println("Successfully connected to the database!");
 			//Step 3: Create a statement (sql query)
 			Statement statement = connection.createStatement();
