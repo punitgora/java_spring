@@ -1,3 +1,8 @@
+
+//Lab Exercise 
+// Create two threads odd and even printing (1 to 10)
+// 1 2 3 in sequence.
+// each number should be printed after 1 seconds.
 package com.threading;
 
 public class EvenOddThread {
@@ -10,10 +15,11 @@ public class EvenOddThread {
 		// the run method runs inside the current thread (main thread)
 		// thread.run();
 		evenThread.start();
-		Thread.currentThread().interrupt();
+		//Thread.currentThread().interrupt();
 		//thread.interrupt();
 		try {
-			Thread.currentThread().sleep(5000);
+			Thread.currentThread().sleep(2000);
+			evenThread.interrupt();
 		} catch (InterruptedException e) {
 			System.out.println("Who woke me up!");
 		}
@@ -39,7 +45,7 @@ class EvenThread extends Thread {
 		System.out.println("Insinde EvenThread: " + Thread.currentThread().getName());
 		for (int i = 2; i <= 10; i++) {
 			try {
-				Thread.currentThread().sleep(1000);
+				Thread.currentThread().sleep(2000);
 			} catch (InterruptedException e) {
 				System.out.println(e);
 			}
