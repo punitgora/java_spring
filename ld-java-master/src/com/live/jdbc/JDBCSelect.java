@@ -9,9 +9,39 @@ import java.sql.Statement;
 public class JDBCSelect {
 	public static void main(String[] args) {
 		jdbcSelectMySql();
-
+		System.out.println("**********************");
+		jdbcSelectOracle();
 	}
+	private static void jdbcSelectOracle() {
+		// CHECKED exceptions : compiler force checks that certain exceptions are
+		// handled
+		// Step 1 : Load the driver
 
+		try {
+			//Deprecated
+//			Class.forName("com.mysql.jdbc.Driver");
+			Class.forName("oracle.jdbc.driver.OracleDriver");			
+			System.out.println("Successfully loaded the driver!");
+			//Step 2: Create the connection
+			Connection connection = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","hr","hr");
+			System.out.println("Successfully connected to the database!");
+			//Step 3: Create a statement (sql query)
+			Statement statement = connection.createStatement();
+			//Step 4: Create the query
+			String selectQuery = "select * from employees where employee_id < 106";
+			//Step 5: Execute Query and get the ResultSet
+			ResultSet resultSet = statement.executeQuery(selectQuery);
+			while(resultSet.next()) {
+				int actorId = resultSet.getInt("employee_id");
+				String firstNameString = resultSet.getString("first_name");
+				System.out.println(actorId + " " + firstNameString);
+			}
+		} catch (ClassNotFoundException e) {
+			System.out.println("The driver class was not found : " + e);
+		} catch (SQLException e) {
+			System.out.println("The server could not be connected due to n/w or credentials or server errors!" + e);
+		}
+	}
 	private static void jdbcSelectMySql() {
 		// CHECKED exceptions : compiler force checks that certain exceptions are
 		// handled
@@ -39,7 +69,7 @@ public class JDBCSelect {
 		} catch (ClassNotFoundException e) {
 			System.out.println("The driver class was not found : " + e);
 		} catch (SQLException e) {
-			System.out.println("The server could not be connected due to n/w or credentials or server errors!");
+			System.out.println("The server could not be connected due to n/w or credentials or server errors!" + e);
 		}
 	}
 }
