@@ -1,12 +1,13 @@
-package com.collections;
+package com.live.collections;
 
-import java.util.ArrayList;
+import java.util.LinkedList;
 
 import com.live.oops.Laptop;
 
-public class ArrayListDemo {
+public class LinkedListDemo {
 	public static void main(String[] args) {
-		ArrayList employees = new ArrayList();
+//		LinkedList<Laptop> employees = new LinkedList<Laptop>();
+		LinkedList<Object> employees = new LinkedList<Object>();
 		employees.add("Rambo");
 		employees.add("John");
 		employees.add(null);

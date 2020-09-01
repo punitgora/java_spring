@@ -1,4 +1,4 @@
-package com.collections;
+package com.live.collections;
 
 public class CollectionsWithWrapper {
 public static void main(String[] args) {
