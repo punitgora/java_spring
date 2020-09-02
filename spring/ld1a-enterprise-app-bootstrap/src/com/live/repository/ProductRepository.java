@@ -1,9 +1,9 @@
-package com.live.service;
+package com.live.repository;
 
 import java.util.List;
 
 import com.live.model.Product;
 
-public interface ProductService {
+public interface ProductRepository {
 	public List<Product> getProducts();
 }

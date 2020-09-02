@@ -1,11 +1,11 @@
 package com.live;
 
-import com.live.service.ProductService;
+import com.live.service.ProductServiceImpl;
 
 public class Application {
 	public static void main(String[] args) {
 		System.out.println("Enterprise App Starter!");
-		ProductService productService = new ProductService();
+		ProductServiceImpl productService = new ProductServiceImpl();
 		//productService.getProducts().forEach((product) -> System.out.println(product));
 		//:: method reference operator
 		//Lambda expression + method reference.
