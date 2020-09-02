@@ -5,7 +5,7 @@ import java.util.List;
 
 import com.live.model.Product;
 
-public class OracleRepository {
+public class OracleRepository implements ProductRepository{
 
 	public List<Product> getProducts(){
 		//JDBC code here to fetch all the product from the database
