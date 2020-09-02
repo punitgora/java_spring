@@ -11,7 +11,16 @@ public class ProductService {
 	public List<Product> getProducts(){
 		//Logic to fetch data from the service layer
 		OracleRepository oracleRepository = new OracleRepository();
-		//oracleRepository.deleteProducts();
+		oracleRepository.deleteProducts();
 		return oracleRepository.getProducts();
+
+		//DELETED
+//		ProductRepositoryInterface productRepositoryInterface = new OracleRepository();
+//		productRepositoryInterface.getProducts();
+//		productRepositoryInterface.deleteProducts();
+//		
+//		OracleRepositoryInterface oracleRepositoryInterface = new OracleRepository();
+//		oracleRepositoryInterface.getProducts();
+//		oracleRepositoryInterface.deleteProducts();
 	}
 }

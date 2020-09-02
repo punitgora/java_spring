@@ -5,7 +5,7 @@ import java.util.List;
 
 import com.live.model.Product;
 
-public class OracleRepository implements ProductRepository{
+public class OracleRepository implements del_ProductRepositoryInterface,del_OracleRepositoryInterface{
 
 	public List<Product> getProducts(){
 		//JDBC code here to fetch all the product from the database
@@ -13,7 +13,7 @@ public class OracleRepository implements ProductRepository{
 		products.add(new Product("P01", "Oracle"));
 		return products;
 	}
-	private void deleteProducts(){
+	public void deleteProducts(){
 		
 	}
 }
