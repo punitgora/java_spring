@@ -17,6 +17,11 @@ public class ProductController {
 	ProductRepository productRepository;
 	@GetMapping("/products")
 	public List<Product> getProducts(){
+		//productRepository.save(new Product(null, "NewProduct","Prod Desc", "5555"));
+		//System.err.println("Saving Product");
+		Product product = productRepository.getOne(1L);
+		productRepository.delete(product);
+		System.err.println("Deleted Product");
 		List<Product> products  = productRepository.findAll();
 		//List<Product> products  = productRepository.findAllOrderByProductIdAsc();
 		return products;
