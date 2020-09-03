@@ -21,8 +21,8 @@ public class Product {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long productId;
-	private String productName;
 	@Column(name = "PRODUCT_NAME", nullable = false)
+	private String productName;
 	private String productDescription;
 	private String price;
 //	public Product() {
