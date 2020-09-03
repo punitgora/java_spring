@@ -18,9 +18,9 @@ public class Application {
 	
 	//FIRST ACCESS
 	ProductRepository productRepository = null;
-//    productRepository = (ProductRepository)context.getBean("productRepository");
+  // productRepository = (ProductRepository)context.getBean("productRepository");
 	productRepository = context.getBean("productRepository", ProductRepository.class);
-	productRepository.getProducts().forEach(System.out::println);
+	//productRepository.getProducts().forEach(System.out::println);
 	System.out.println(productRepository);
 
 	//ACCESS AGAIN
