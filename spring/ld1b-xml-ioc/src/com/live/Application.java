@@ -1,5 +1,6 @@
 package com.live;
 
+import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.live.repository.ProductRepository;
@@ -12,11 +13,13 @@ public class Application {
 		//FETCHING THE PoductRepository implementation instance from spring IOC Container
 		//The instance inside the container is Spring Beans.
 		//CREATED THE IOC CONTAINER
-	ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+		ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+	//ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
 	
 	//FIRST ACCESS
 	ProductRepository productRepository = null;
-    productRepository = (ProductRepository)context.getBean("productRepository");
+//    productRepository = (ProductRepository)context.getBean("productRepository");
+	productRepository = context.getBean("productRepository", ProductRepository.class);
 	productRepository.getProducts().forEach(System.out::println);
 	System.out.println(productRepository);
 
