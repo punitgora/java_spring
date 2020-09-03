@@ -17,7 +17,9 @@ public class App {
 		Product product = context.getBean("product",Product.class);
 		System.out.println(product.getProductName());
 		
-		((ClassPathXmlApplicationContext)context).close();
+		ClassPathXmlApplicationContext classPathXmlApplicationContext = (ClassPathXmlApplicationContext)context;
+		classPathXmlApplicationContext.close();
+		//((ClassPathXmlApplicationContext)context).close();
 	}
 
 	private static void getProducts(ApplicationContext context) {
