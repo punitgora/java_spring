@@ -923,3 +923,696 @@ Caused by: java.lang.NoSuchMethodException: org.springframework.boot.autoconfigu
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:45:31.904
 !MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.021
+!MESSAGE Preparing classpath changed notification ld1b-xml-di-cons
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.026
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.026
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.027
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-di-cons false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.027
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.044
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.575
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.575
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.576
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.577
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.577
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.577
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.578
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.580
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.580
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:26.583
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:30.679
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:30.680
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:30.681
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:30.681
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:30.685
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:30.685
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:30.687
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:30.690
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:30.690
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 15:54:30.696
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:25.258
+!MESSAGE Preparing classpath changed notification ld1a-jdbc-template-crud-mysql
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:25.277
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:25.287
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:25.290
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1a-jdbc-template-crud-mysql false 23
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:25.291
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:25.466
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:26.897
+!MESSAGE Preparing classpath changed notification ld1a-jdbc-template-crud-mysql
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:26.898
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:26.901
+!MESSAGE classpath=35 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:26.902
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1a-jdbc-template-crud-mysql false 35
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:26.903
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:26.909
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:28.606
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:28.607
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:28.609
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:28.622
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:28.623
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:28.624
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:28.626
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:28.629
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:28.630
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:28.648
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:11:29.493
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:11:29.614
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:30.888
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:30.889
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:30.890
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:30.892
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:30.892
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:30.893
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:30.894
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:30.897
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:30.897
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:11:30.908
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2020-09-03 16:16:59.818
+!MESSAGE Internal Error
+!STACK 0
+org.eclipse.jface.text.BadPartitioningException
+	at org.eclipse.jface.text.AbstractDocument.getPartition(AbstractDocument.java:1392)
+	at org.eclipse.jdt.internal.ui.propertiesfileeditor.PropertiesFileHover.getHoverInfo(PropertiesFileHover.java:135)
+	at org.eclipse.jdt.internal.ui.propertiesfileeditor.PropertiesFileHover.getHoverInfo2(PropertiesFileHover.java:108)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:32:50.940
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:32:50.942
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:50.944
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:50.945
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:50.945
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:50.946
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:50.946
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:50.946
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:50.947
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:50.948
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:50.948
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:50.952
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:32:57.027
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:32:57.029
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:57.030
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:57.031
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:57.031
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:57.032
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:57.032
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:57.032
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:57.033
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:57.035
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:57.036
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:32:57.039
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:00.998
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:01.001
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:01.002
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:01.003
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:01.003
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:01.005
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:01.005
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:01.005
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:01.006
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:01.007
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:01.008
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:01.014
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:21.313
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:21.315
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:21.317
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:21.318
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:21.320
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:21.321
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:21.322
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:21.322
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:21.323
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:21.325
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:21.326
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:21.328
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:27.657
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:27.659
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:27.662
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:27.662
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:27.663
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:27.666
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:27.667
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:27.667
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:27.669
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:27.673
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:27.674
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:27.677
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:31.159
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:31.161
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:31.162
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:31.162
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:31.163
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:31.164
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:31.164
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:31.165
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:31.165
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:31.167
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:31.168
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:31.170
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:37.847
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:37.850
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:37.852
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:37.852
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:37.853
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:37.854
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:37.854
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:37.854
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:37.855
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:37.857
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:37.857
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:37.863
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:51.527
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:51.531
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:51.532
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:51.533
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:51.534
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:51.536
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:51.537
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:51.538
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:51.539
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:51.541
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:51.542
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:51.546
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:56.484
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:33:56.486
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:56.488
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:56.488
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:56.489
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:56.490
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:56.490
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:56.490
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:56.491
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:56.492
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:56.492
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:33:56.493
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:34:27.054
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:34:27.057
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:27.059
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:27.059
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:27.060
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:27.061
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:27.061
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:27.062
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:27.062
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:27.064
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:27.064
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:27.067
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:34:41.460
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:34:41.461
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:41.462
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:41.463
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:41.463
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:41.464
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:41.464
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:41.465
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:41.465
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:41.467
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:41.468
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:41.471
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:34:46.521
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:34:46.523
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:46.524
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:46.524
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:46.525
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:46.525
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:46.526
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:46.526
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:46.526
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:46.528
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:46.528
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:34:46.530
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:35:00.526
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:35:00.527
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:00.529
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:00.529
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:00.530
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:00.530
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:00.531
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:00.532
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:00.532
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:00.534
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:00.534
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:00.536
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:35:15.788
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-09-03 16:35:15.790
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:15.793
+!MESSAGE Preparing classpath changed notification ld-java-master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:15.793
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:15.794
+!MESSAGE classpath=21 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:15.794
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld-java-master false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:15.795
+!MESSAGE Preparing classpath changed notification ld1b-xml-ioc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:15.796
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:15.797
+!MESSAGE classpath=82 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:15.798
+!MESSAGE buffering callback sts4.classpath.BbvnwuoK ld1b-xml-ioc false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:15.799
+!MESSAGE executing callback sts4.classpath.BbvnwuoK 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-03 16:35:15.800
+!MESSAGE executing callback sts4.classpath.BbvnwuoK SUCCESS [done]
